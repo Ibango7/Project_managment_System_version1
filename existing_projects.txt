@@ -1,0 +1,24 @@
+Apartment Customer, true, Apartment, 209 Amos st PT, 209R, 129000.99, 0.0, 2020-04-27, 2021-06-10
+Test Customer, test@gmail.com, 06249070734, DDD
+Joseph, joseph@hotmail.com, 123456789, Luanda ST
+Hotel, contactblueprint@gmail.com, +27923195531, PT st
+Israel House, false, House, 209 Amos st PT, 209R, 129000.99, 0.0, 2020-01-13, 2021-06-10
+Testing, test@gmail.com, 06249070734, AAA
+John, joseph@hotmail.com, 123456789, Luanda STSTST
+Contractor, contactblueprint@gmail.com, +27923195531, PTPTPT st
+School, false, Hotel, Ld st, 209R, 129000.99, 0.0, 2020-01-13, 2020-02-10
+Leonilde, Leonilde@gmail.com, 06249070734, AAA
+Leonilde, Leonilde@hotmail.com, 123456789, Luanda STSTST
+Leonilde, Leonildelueprint@gmail.com, +27923195531, PTPTPT st
+Restaurant, false, Hotel, Ld st, 209R, 129000.99, 0.0, 2018-01-13, 2019-01-01
+Odmira, Odmira@gmail.com, 06249070734, AAA
+Odmira, Odmirae@hotmail.com, 123456789, Luanda STSTST
+Odmira, Odmiralueprint@gmail.com, +27923195531, PTPTPT st
+Store, true, Hotel, Ld st, 209R, 129000.99, 0.0, 2020-03-20, 2020-05-12
+Etelvina, Etelvina@gmail.com, 06249070734, AAA
+Etelvina, Etelvina@hotmail.com, 000230000, Luanda STSTST
+Etelvina, Etelvinalueprint@gmail.com, +27923195531, PTPTPT st
+Sport Campus, false, Hotel, Ld st, 209R, 129000.99, 0.0, 2020-01-13, 2020-02-10
+Joseph, Joseph@gmail.com, 06249070734, AAA
+Joseph, Joseph@hotmail.com, 123456789, Luanda STSTST
+Joseph, Josephlueprint@gmail.com, +27923195531, PTPTPT st
