@@ -1,4 +1,4 @@
-# Project_managment_System_version1
+# Project_management_System_version1
 
 This is a project management system for a small structural engineering firm developed in java.
 
